@@ -45,7 +45,7 @@
         <mybatis-plus.version>3.1.2</mybatis-plus.version>
         <druid.version>1.1.18</druid.version>
         <fastjson.version>1.2.59</fastjson.version>
-        <shiro.version>1.4.0</shiro.version>
+        <shiro.version>1.7.1</shiro.version>
         <dynamic-datasource.version>2.5.6</dynamic-datasource.version>
         <jwt.version>3.8.1</jwt.version>
         <commons.version>2.6</commons.version>
